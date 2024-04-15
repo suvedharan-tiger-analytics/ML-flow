@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/607460038904469002/838d802f2358480280ac1cef4f064523/artifacts
+deleted_time: 1713169984950
+end_time: 1713169575274
+entry_point_name: ''
+experiment_id: '607460038904469002'
+lifecycle_stage: deleted
+run_id: 838d802f2358480280ac1cef4f064523
+run_name: bald-zebra-484
+run_uuid: 838d802f2358480280ac1cef4f064523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713169575191
+status: 4
+tags: []
+user_id: suvedharan.manic
